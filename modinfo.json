@@ -1,0 +1,23 @@
+{
+  "context": "server",
+  "identifier": "com.pa.quildtide.ai-variations",
+  "display_name": "Vanilla AI Variations",
+  "description": "",
+  "author": "Quildtide",
+  "version": "0.1.0",
+  "build": "115546",
+  "date": "2021-04-21",
+  "signature": " ",
+  "forum": "",
+  "category": [
+    "ai",
+    "titans",
+    "skirmish"
+  ],
+  "icon": "",
+  "scenes": {
+    "new_game": ["coui://ui/mods/com.pa.quildtide.ai-variations/new_game.js"]
+  },
+  "priority": 100,
+  "titansOnly": true
+}
