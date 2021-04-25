@@ -111,7 +111,7 @@ if (!VAIVLoaded) {
         unable_to_expand_delay: 0,
         per_expansion_delay: 0,
         factory_build_delay_min: 0,
-        adv_eco_mod: 1.0,
+        adv_eco_mod: 1.3,
         adv_eco_mod_alone: 0.6,
         fabber_to_factory_ratio_basic: 1.0,
         fabber_to_factory_ratio_advanced: 1.0,
