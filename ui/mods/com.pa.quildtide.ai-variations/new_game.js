@@ -51,21 +51,24 @@ if (!VAIVLoaded) {
             {
                 name: "V_Betelgeuse_V",
                 display_name: '!LOC:V_Betelgeuse_V',
-                percent_open_bot: 1
+                percent_vehicle: 0.21,
+                percent_bot: 0.11,
+                percent_air: 0.01,
+                percent_naval: 0.41,
+                percent_orbital: 0.26,
             }
         )
 
         aiPersonalities.V_Canopus_V = _.assign(
-            _.clone(aiPersonalities.Absurd),
+            _.clone(aiPersonalities.V_Arcturus_V),
             {
                 name: "V_Canopus_V",
                 display_name: '!LOC:V_Canopus_V',
-                percent_open_bot: 1,
-                percent_vehicle: 0.20,
-                percent_bot: 0.10,
-                percent_air: 0.05,
-                percent_naval: 0.40,
-                percent_orbital: 0.25
+                percent_vehicle: 0.25,
+                percent_bot: 0.125,
+                percent_air: 0.0625,
+                percent_naval: 0.50,
+                percent_orbital: 0.05,
             }
         )
 
