@@ -46,7 +46,7 @@ if (!VAIVLoaded) {
         }
 
 
-        aiPersonalities.v_betelgeuse_v = _.assign(
+        aiPersonalities.V_Betelgeuse_V = _.assign(
             _.clone(aiPersonalities.V_Arcturus_V),
             {
                 name: "V_Betelgeuse_V",
