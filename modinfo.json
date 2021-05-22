@@ -4,9 +4,9 @@
   "display_name": "Vanilla AI Variations",
   "description": "",
   "author": "Quildtide",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "build": "115546",
-  "date": "2021-04-21",
+  "date": "2021-05-22",
   "signature": " ",
   "forum": "",
   "category": [
@@ -16,7 +16,9 @@
   ],
   "icon": "",
   "scenes": {
-    "new_game": ["coui://ui/mods/com.pa.quildtide.ai-variations/new_game.js"]
+    "new_game": [
+      "coui://ui/mods/com.pa.quildtide.ai-variations/new_game.js"
+    ]
   },
   "priority": 100,
   "titansOnly": true
