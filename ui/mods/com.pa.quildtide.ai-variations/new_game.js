@@ -72,8 +72,6 @@ if (!VAIVLoaded) {
             }
         )
 
-        model.aiPersonalities.valueHasMutated();
-
         aiPersonalities.X_Aleph_X = {
             name: "X_Aleph_X",
             display_name: '!LOC:X_Aleph_X',
@@ -113,6 +111,9 @@ if (!VAIVLoaded) {
             max_advanced_fabbers: 50,
             starting_location_evaluation_radius: 400
         }
+
+        
+        model.aiPersonalities.valueHasMutated();
 
     } catch (e) {
         console.error(e);
