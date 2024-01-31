@@ -1,6 +1,6 @@
 # Vanilla_AI_Variations
 
-An AI mod for Planetary Annihilation, seeking to push the vanilla AI to its limits
+An AI mod for Planetary Annihilation, seeking to push the vanilla AI to its limits and experiment with modifications to the neural network and build rules.
 
 Vanilla_AI_Variations provides a set of AI personalities based off of the vanilla Absurd personality.
 
@@ -12,8 +12,8 @@ Similarly, this AI mod also doesn't seek to provide variety in its AI personalit
 
 ## Personalities
 
-### Vanilla Build Rules & Neural Networks
-Currently, there are three personalities which use the Vanilla AI's build rules and neural network.
+### V-type Personalities
+Currently, there are three personalities which use the Vanilla AI's build rules and neural network:
 
 - V_Arcturus_V
 - V_Betelgeuse_V
@@ -21,9 +21,17 @@ Currently, there are three personalities which use the Vanilla AI's build rules 
 
 These personalities and the strength relationship between them may vary over time. Currently, V_Arcturus_V, V_Betelgeuse_V, and V_Canopus_V are comparable to Absurd, but should have an edge on Naval maps.
 
+In the past, V_Arcturus_V and V_Betelgeuse_V exceeded the Absurd AI in strength, but general AI improvements have removed some of the shortcomings in Absurd that the V-type personalities were able to reliably exploit.
+
+### X-type Personalities
+Currently, there is one personality which uses a modified neural network:
+- X_Aleph_X
+
+This personality is currently extremely weak.
+
 ## Methodology
 
-I ran a Swiss tournament for AI personalities (https://challonge.com/8pfxhr1h) in the past and created these AI personalities as an experiment based off of patterns that I observed while watching these matches.
+I ran a Swiss tournament for AI personalities (https://challonge.com/8pfxhr1h) in the past and created the V personalities as an experiment based off of patterns that I observed while watching these matches.
 
 ### Minimizing Air Usage
 
