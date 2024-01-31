@@ -12,17 +12,14 @@ Similarly, this AI mod also doesn't seek to provide variety in its AI personalit
 
 ## Personalities
 
-Currently, there are three personalities which use the Vanilla AI's build rules, meaning that they benefit from mods like QBE.
+### Vanilla Build Rules & Neural Networks
+Currently, there are three personalities which use the Vanilla AI's build rules and neural network.
 
 - V_Arcturus_V
 - V_Betelgeuse_V
 - V_Canopus_V
 
-These personalities and the strength relationship between them may vary over time. Currently, V_Arcturus_V and V_Betelgeuse_V can consistently beat the Absurd personality from either spawn on Lune 1v1, and I'm not aware of any maps where they lose from both spawns versus the Absurd personality. V_Canopus_V requires more testing in its current iteration.
-
-These personalities can also trade versus Q-Gold from the Queller AI mod on non-Naval maps, although their playstyles are definitely less aesthetic than Q-Gold's and less fun to watch.
-
-When QBE is enabled, V_Arcturus_V and V_Betelgeuse_V can win from both spawns on Lune 1v1 vs Q-Gold.
+These personalities and the strength relationship between them may vary over time. Currently, V_Arcturus_V, V_Betelgeuse_V, and V_Canopus_V are comparable to Absurd, but should have an edge on Naval maps.
 
 ## Methodology
 
